@@ -14,7 +14,7 @@ if (int.TryParse(Console.ReadLine(), out int numeroUm))
 };
 //#02.Antecessor e sucessor
 Console.WriteLine("Digite outro numero");
-if (decimal.TryParse(Console.ReadLine(), out decimal numeroMeio))
+if (int.TryParse(Console.ReadLine(), out int numeroMeio))
 {
 
     Console.WriteLine($"O Antecessor: {numeroMeio - 1}");
@@ -23,9 +23,23 @@ if (decimal.TryParse(Console.ReadLine(), out decimal numeroMeio))
 }
 else
 {
-    Console.WriteLine("Escreve direito");
+    Console.WriteLine("Escreva um número inteiro");
 };
 //#03.Area de um retangulo
+Console.WriteLine("Digite a base de um retângulo");
+if (Double.TryParse(Console.ReadLine(), out double numeroBase))
+{
+    Console.WriteLine("Digite a altura de um retângulo");
+    if (Double.TryParse(Console.ReadLine(), out double numeroAltura))
+    {
+        Console.WriteLine($"A área é: {(numeroBase * numeroAltura)}");
+        Console.WriteLine($"O Perimetro é: {2 * (numeroBase + numeroAltura)}");
+    }
+}
+else
+{
+    Console.WriteLine("Escreva um número válido");
+};
 //#04.Conversor de moedas
 //#05.Calculadora Simples
 //#06.Contagem crescente
