@@ -11,9 +11,20 @@ if (int.TryParse(Console.ReadLine(), out int numeroUm))
     {
         Console.WriteLine("Escreva um número inteiro");
     }
-}
-;
+};
 //#02.Antecessor e sucessor
+Console.WriteLine("Digite outro numero");
+if (decimal.TryParse(Console.ReadLine(), out decimal numeroMeio))
+{
+
+    Console.WriteLine($"O Antecessor: {numeroMeio - 1}");
+    Console.WriteLine($"O numero é: {numeroMeio}");
+    Console.WriteLine($"O sucessor é: {numeroMeio + 1}");
+}
+else
+{
+    Console.WriteLine("Escreve direito");
+};
 //#03.Area de um retangulo
 //#04.Conversor de moedas
 //#05.Calculadora Simples
