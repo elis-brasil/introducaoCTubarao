@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("introducaoCTubarao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+015b47da089f8e74848bc4a98d31b207eb927e7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4ef5edb0b993a1ad652ad31d5bd03488c229ba7")]
 [assembly: System.Reflection.AssemblyProductAttribute("introducaoCTubarao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("introducaoCTubarao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
