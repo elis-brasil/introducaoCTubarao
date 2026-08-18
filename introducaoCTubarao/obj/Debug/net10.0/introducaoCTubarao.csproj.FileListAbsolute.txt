@@ -1,0 +1,16 @@
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\bin\Debug\net10.0\introducaoCTubarao.exe
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\bin\Debug\net10.0\introducaoCTubarao.deps.json
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\bin\Debug\net10.0\introducaoCTubarao.runtimeconfig.json
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\bin\Debug\net10.0\introducaoCTubarao.dll
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\bin\Debug\net10.0\introducaoCTubarao.pdb
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\obj\Debug\net10.0\introducaoCTubarao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\obj\Debug\net10.0\introducaoCTubarao.AssemblyInfoInputs.cache
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\obj\Debug\net10.0\introducaoCTubarao.AssemblyInfo.cs
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\obj\Debug\net10.0\introducaoCTubarao.csproj.CoreCompileInputs.cache
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\obj\Debug\net10.0\introducaoCTubarao.sourcelink.json
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\obj\Debug\net10.0\introducaoCTubarao.dll
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\obj\Debug\net10.0\refint\introducaoCTubarao.dll
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\obj\Debug\net10.0\introducaoCTubarao.pdb
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\obj\Debug\net10.0\introducaoCTubarao.genruntimeconfig.cache
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\obj\Debug\net10.0\ref\introducaoCTubarao.dll
+C:\Users\Elis\source\repos\introducaoCTubarao\introducaoCTubarao\obj\Debug\net10.0\introduc.0A4F42D8.Up2Date
