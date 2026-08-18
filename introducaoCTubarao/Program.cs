@@ -1,4 +1,18 @@
 ﻿//#01.Soma de dois números
+Console.WriteLine("Digite um numero");
+if (int.TryParse(Console.ReadLine(), out int numeroUm))
+{
+    Console.WriteLine("Digite mais um numero");
+    if (int.TryParse(Console.ReadLine(), out int numeroDois))
+    {
+        Console.WriteLine($"A soma é: {numeroUm + numeroDois}");
+    }
+    else
+    {
+        Console.WriteLine("Escreva um número inteiro");
+    }
+}
+;
 //#02.Antecessor e sucessor
 //#03.Area de um retangulo
 //#04.Conversor de moedas
