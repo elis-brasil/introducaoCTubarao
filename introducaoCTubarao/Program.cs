@@ -10,7 +10,13 @@ if (int.TryParse(Console.ReadLine(), out int numeroUm))
     else
     {
         Console.WriteLine("Escreva um número inteiro");
+        Console.ReadLine();
     }
+}
+else
+{
+    Console.WriteLine("Escreva um número inteiro");
+    Console.ReadLine();
 };
 //#02.Antecessor e sucessor
 Console.WriteLine("Digite outro numero");
@@ -24,6 +30,7 @@ if (int.TryParse(Console.ReadLine(), out int numeroMeio))
 else
 {
     Console.WriteLine("Escreva um número inteiro");
+    Console.ReadLine();
 };
 //#03.Area de um retangulo
 Console.WriteLine("Digite a base de um retângulo");
@@ -35,10 +42,16 @@ if (Double.TryParse(Console.ReadLine(), out double numeroBase))
         Console.WriteLine($"A área é: {(numeroBase * numeroAltura)}");
         Console.WriteLine($"O Perimetro é: {2 * (numeroBase + numeroAltura)}");
     }
+    else
+    {
+        Console.WriteLine("Escreva um número válido");
+        Console.ReadLine();
+    }
 }
 else
 {
     Console.WriteLine("Escreva um número válido");
+    Console.ReadLine();
 };
 //#04.Conversor de moedas
 //#05.Calculadora Simples
